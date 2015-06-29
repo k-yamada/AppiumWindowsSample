@@ -7,7 +7,7 @@ namespace Appium.Samples.Helpers
 	{
 		static Dictionary<string, string> DEV = new Dictionary<string, string> {
 			//{ "androidApiDemosLocal", "sample-code/apps/ApiDemos/bin/ApiDemos-debug.apk" }
-            { "androidApiDemosLocal", "C:/Users/UFT/Documents/Visual Studio 2013/Projects/UFTSample2/UFTSample2/assets/ApiDemos-debug.apk" }
+            { "androidApiDemosLocal", "C:/Users/UFT/Documents/Visual Studio 2013/Projects/AppiumWindowsSample/UFTSample2/assets/ApiDemos-debug.apk" }
             
 		};
 
